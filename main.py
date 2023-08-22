@@ -27,6 +27,6 @@ if price_split <= 110:
         connection.login(user=MY_EMAIL, password=MY_PASSWORD)
         connection.sendmail(
             from_addr=MY_EMAIL,
-            to_addrs="deleonquintero@gmail.com",
+            to_addrs="EMAIL",
             msg=f"Subject:Price Reduce\n\n Price Reduce to {price_split} for product\n{URL}"
         )
