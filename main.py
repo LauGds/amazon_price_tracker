@@ -5,7 +5,7 @@ import smtplib
 URL = "https://www.amazon.com/Ninja-OL501-Pressure-SmartLid-Capacity/dp/B0995HLCQ8/ref=sr_1_2?" \
       "crid=18F0ZYK54ICKW&keywords=ninja+foodi&qid=1687812963&sprefix=ninja+foodi%2Caps%2C159&sr=8-2&u" \
       "fe=app_do%3Aamzn1.fos.f5122f16-c3e8-4386-bf32-63e904010ad0"
-MY_EMAIL = "laucoding@gmail.com"
+MY_EMAIL = "EMAIL"
 MY_PASSWORD = "PASSWORD"
 
 headers = {
